@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
     :git => "https://github.com/pratikhmehta/EffezzientOrder.git",
     :tag => "v#{s.version}"
   }
-
-  s.source_files = "EffezzientOrder/EffezzientOrder"
-  s.resources = "EffezzientOrder/EffezzientOrder/**/*.xib"
+  
+  s.source_files  = "EffezzientOrder/EffezzientOrder/**/*.swift"
+  s.resources = "EffezzientOrder/EffezzientOrder/ExtraLibrary/**/*.xib"
   s.requires_arc = true
   s.swift_version = '4.2'
 end
