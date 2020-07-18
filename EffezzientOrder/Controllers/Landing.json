@@ -1,0 +1,321 @@
+{
+  "statuscode": true,
+  "data": [
+    {
+      "SectionType": "Offers",
+      "SectionHeight": 120.0,
+      "SectionMarginTop": 30,
+      "SectionMarginBottom": 30,
+      "SectionMarginRight": 30,
+      "SectionMarginLeft": 30,
+      "type": "HorizontalList",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/3a96a5bbacde7811.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78,
+          "PassParams":{
+            "OfferID" : 23
+          }
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/0494603decb40a2f.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/0c1ad3541942a20b.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/94527b202035c629.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/32f428ed15730411.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        }
+      ]
+    },
+    {
+      "SectionType": "Offers",
+      "SectionHeight": 120.0,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "HorizontalList",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/cad71a657b8fb718.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/85ab5dad7e8b6542.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/af05c8124d5efdf5.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/75190232cd93d1ee.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/200/293/image/2cba302d28a2a4b9.jpg",
+          "ItemHeight": 120,
+          "ItemWidth": 78
+        }
+      ]
+    },
+    {
+        "SectionType": "Price drop",
+        "SectionHeight": 250,
+        "SectionMarginTop": 0,
+        "SectionMarginBottom": 0,
+        "SectionMarginRight": 0,
+        "SectionMarginLeft": 0,
+        "type": "GridView",
+        "NumberOfColumns": 3,
+        "Items": [
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/e389dd547a185d38.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/210ee4c4c3d96457.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/4b7efc0e55f91e4d.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/9b0cb78cf51c734b.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/0541ffc370d76995.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/400/426/image/7fb0e64faf0f4770.jpg?q=90",
+                "ItemHeight": 125,
+                "ItemWidth": 125
+            }
+        ]
+    },
+    {
+      "SectionType": "Price drop",
+      "SectionHeight": 125,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "GridView",
+      "NumberOfColumns": 3,
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/250/266/image/0a0aa78979d7bf2a.jpg",
+          "ItemHeight": 125,
+          "ItemWidth": 125
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/250/266/image/709d74451f8b4989.jpg",
+          "ItemHeight": 125,
+          "ItemWidth": 125
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/250/266/image/9b755dd6e2220681.jpg",
+          "ItemHeight": 125,
+          "ItemWidth": 125
+        }
+      ]
+    },
+    {
+      "SectionType": "Price drop",
+      "SectionHeight": 80.0,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "SwipeView",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/2880/576/image/fe37afe18d5d9635.jpg",
+          "ItemHeight": 80.0,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/640/128/image/dd7c3be96fbcc77e.jpg",
+          "ItemHeight": 80.0,
+          "ItemWidth": 375
+        }
+      ]
+    },
+    {
+        "SectionType": "Price drop",
+        "SectionHeight": 187.5,
+        "SectionMarginTop": 0,
+        "SectionMarginBottom": 0,
+        "SectionMarginRight": 0,
+        "SectionMarginLeft": 0,
+        "type": "GridView",
+        "NumberOfColumns": 2,
+        "Items": [
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/375/376/image/a9f42e415297c9d4.jpg",
+                "ItemHeight": 187.5,
+                "ItemWidth": 187.5
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/375/376/image/a217e25c4f78efe8.jpg",
+                "ItemHeight": 187.5,
+                "ItemWidth": 187.5
+            }
+        ]
+    },
+    {
+      "SectionType": "Offers",
+      "SectionHeight": 260.0,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "HorizontalList",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/676/578/image/4bc4f3ea34d94a0f.jpg",
+          "ItemHeight": 250,
+          "ItemWidth": 270
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/676/578/image/8a566c36a7690943.jpg",
+          "ItemHeight": 250,
+          "ItemWidth": 270
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/676/578/image/18ff284c7b6e5811.jpg",
+          "ItemHeight": 250,
+          "ItemWidth": 270
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/676/578/image/a2806ad21741b197.jpg",
+          "ItemHeight": 250,
+          "ItemWidth": 270
+        }
+      ]
+    },
+    {
+      "SectionType": "Offers",
+      "SectionHeight": 180.0,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "SwipeView",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/656/352/image/a1ee9d9f6d43aef1.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/656/352/image/8074e1d0752fc084.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/656/352/image/9881bbc2c154e75f.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        }
+      ]
+    },
+    {
+        "SectionType": "Offers",
+        "SectionHeight": 85,
+        "SectionMarginTop": 5,
+        "SectionMarginBottom": 5,
+        "SectionMarginRight": 0,
+        "SectionMarginLeft": 0,
+        "type": "HorizontalList",
+        "Items": [
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/93c417cd26f3f138.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/84e0f011761b970e.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/54abb23755dc69db.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/ff76448c9ce1c07c.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/52d4da926dbea236.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            },
+            {
+                "ImageURL": "https://rukminim1.flixcart.com/flap/200/187/image/9ea87858780c2987.jpg",
+                "ItemHeight": 85,
+                "ItemWidth": 90
+            }
+        ]
+    },
+    {
+      "SectionType": "Price drop",
+      "SectionHeight": 720,
+      "SectionMarginTop": 0,
+      "SectionMarginBottom": 0,
+      "SectionMarginRight": 0,
+      "SectionMarginLeft": 0,
+      "type": "VerticalList",
+      "Items": [
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/640/284/image/e0c1fd6cf1e10c07.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/640/284/image/3c273a8856d64381.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/640/284/image/a8f180c65c2d508a.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        },
+        {
+          "ImageURL": "https://rukminim1.flixcart.com/flap/640/284/image/6e2d41c25bac219a.jpg",
+          "ItemHeight": 180,
+          "ItemWidth": 375
+        }
+      ]
+    }
+  ]
+}

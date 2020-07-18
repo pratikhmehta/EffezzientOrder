@@ -1,0 +1,42 @@
+//
+//  PrefixHeader.pch
+//  Meril
+//
+//  Created by apple on 11/15/17.
+//  Copyright © 2017 Manish Patel. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "AppDelegate.h"
+
+#import "BaseVC.h"
+#import "Global.h"
+#import "Reachability.h"
+//#import "ReachabilityManager.h"
+#import "ServiceConstants.h"
+
+#import "WebServiceConnector.h"
+#import "WebServiceDataAdaptor.h"
+#import "SVProgressHUD.h"
+#import "AZNotification.h"
+
+#import "UIImageView+WebCache.h"
+#import "UIView+WebCache.h"
+#import "UIView+Category.h"
+
+#import "UIBarButtonItem+Badge.h"
+#import "UIButton+Badge.h"
+
+#import "NSString+Extensions.h"
+#import "ShareInfo.h"
+#import "ACFloatingTextField.h"
+
+#import "CustomTableViewCell.h"
+#import "iToast.h"
+
+#endif /* PrefixHeader_pch */
