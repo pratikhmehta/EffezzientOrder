@@ -1,0 +1,6 @@
+# EffezzientOrder
+
+Installation:
+
+pod 'EffezzientOrder'
+
