@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author = { "ami-patel" => "amipatel27393@gmail.com" }
   s.platform = :ios, '11.0'
   s.source = {
-    :git => "$HOME/EffezzientOrder.git",
+    :git => "https://github.com/pratikhmehta/EffezzientOrder.git",
     :tag => "v#{s.version}"
   }
 
