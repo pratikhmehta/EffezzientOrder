@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
     :tag => "1.0.0"
   }
   s.source_files  = "EffezzientOrder/**/*"
+  s.swift_version = "4.2"
 end
