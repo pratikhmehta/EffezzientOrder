@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   }
   s.source_files  = "EffezzientOrder/**/*"
   s.swift_version = "4.2"
+  s.ios.deployment_target  = '11.0'
 end
