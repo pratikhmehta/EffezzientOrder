@@ -19,5 +19,6 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/pratikhmehta/EffezzientOrder.git", :tag => "1.0.0" }
   spec.source_files = "EffezzientOrder/**/*"
+  spec.swift_versions = "4.2"
 
 end
