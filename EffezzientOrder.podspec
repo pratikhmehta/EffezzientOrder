@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
     :git => "https://github.com/pratikhmehta/EffezzientOrder.git",
     :tag => "1.0.0"
   }
-  s.source_files  = "EffezzientOrder"
+  s.source_files  = "EffezzientOrder/**/*"
 end
