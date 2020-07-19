@@ -1,18 +1,23 @@
 
-Pod::Spec.new do |s|
+Pod::Spec.new do |spec|
 
-  s.name = "EffezzientOrder"
-  s.version = "1.0.0"
-  s.summary = "Ami's Effezzient Order module"
+  # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
+  #
+  #  These will help people to find your library, and whilst it
+  #  can feel like a chore to fill in it's definitely to your advantage. The
+  #  summary should be tweet-length, and the description more in depth.
+  #
 
-  s.homepage = "https://github.com/pratikhmehta/EffezzientOrder"
-  s.author = { "ami-patel" => "amipatel27393@gmail.com" }
-  s.platform = :ios, '11.0'
-  s.source = {
-    :git => "https://github.com/pratikhmehta/EffezzientOrder.git",
-    :tag => "1.0.0"
-  }
-  s.source_files  = "EffezzientOrder/**/*"
-  s.swift_version = "4.2"
-  s.ios.deployment_target  = '11.0'
+  spec.name         = "EffezzientOrder"
+  spec.version      = "1.0.0"
+  spec.summary      = "A custom framework for Effezzient's Order Module."
+  spec.description  = "A custom framework for Effezzient's Order Module, developed by Ami Patel, to be integrated into multiple applications."
+  spec.homepage     = "https://github.com/pratikhmehta/EffezzientOrder"
+  spec.license      = "MIT"
+  spec.author       = { "ami" => "pratik.mehta2713@gmail.com" }
+  spec.platform     = :ios, "11.0"
+
+  spec.source       = { :git => "https://github.com/pratikhmehta/EffezzientOrder.git", :tag => "1.0.0" }
+  spec.source_files = "EffezzientOrder/**/*"
+
 end
